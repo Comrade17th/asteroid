@@ -3,7 +3,7 @@
 study project
 idea from "Asteroids" Atari 1979
 
-demo:
+demo:https://youtu.be/swwV8Das_gw
 
 features
 - main menu, game controller
